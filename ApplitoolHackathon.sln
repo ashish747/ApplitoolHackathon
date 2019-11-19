@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplitoolHackathonHelpers", "ApplitoolHackathon\ApplitoolHackathonHelpers.csproj", "{2C5F5163-C0C6-4BBF-A666-EAA0B80AAB69}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ApplitoolHackathonTests", "ApplitoolHackathonTests\ApplitoolHackathonTests.csproj", "{9C11D41C-E800-4E18-BEBA-7D5E2360C57E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pages", "Pages\Pages.csproj", "{82E84999-991F-4C0F-BCC5-6D4AA9061D2E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2C5F5163-C0C6-4BBF-A666-EAA0B80AAB69}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2C5F5163-C0C6-4BBF-A666-EAA0B80AAB69}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2C5F5163-C0C6-4BBF-A666-EAA0B80AAB69}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2C5F5163-C0C6-4BBF-A666-EAA0B80AAB69}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9C11D41C-E800-4E18-BEBA-7D5E2360C57E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C11D41C-E800-4E18-BEBA-7D5E2360C57E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C11D41C-E800-4E18-BEBA-7D5E2360C57E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C11D41C-E800-4E18-BEBA-7D5E2360C57E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{82E84999-991F-4C0F-BCC5-6D4AA9061D2E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{82E84999-991F-4C0F-BCC5-6D4AA9061D2E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{82E84999-991F-4C0F-BCC5-6D4AA9061D2E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{82E84999-991F-4C0F-BCC5-6D4AA9061D2E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
